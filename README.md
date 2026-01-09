@@ -75,19 +75,6 @@ See [CONTRIBUTING.md](https://github.com/FerroxOS/.github/blob/main/CONTRIBUTING
 - **Q3 2026** — Beta testing
 - **Q4 2026** — Stable 1.0 release
 
-## 📖 Resources
-
-- [Architecture Specification](https://docs.ferroxos.org/spec)
-- [User Guide](https://docs.ferroxos.org/guide)
-- [Developer Documentation](https://docs.ferroxos.org/dev)
-- [Security Advisories](https://security.ferroxos.org)
-
-## 💬 Community
-
-- **Forum**: [forum.ferroxos.org](https://forum.ferroxos.org)
-- **Matrix**: [#ferroxos:matrix.org](https://matrix.to/#/#ferroxos:matrix.org)
-- **IRC**: #ferroxos on Libera.Chat
-- **Mailing Lists**: dev@ferroxos.org | users@ferroxos.org
 
 ## 📜 License
 
